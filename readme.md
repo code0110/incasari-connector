@@ -8,7 +8,7 @@
 
 # Screenshots
 
-![Screenshot]()
+![Screenshot](https://github.com/code0110/incasari-connector/blob/09fac553ee518e9679c420af4bf40cb4bdcbdaba/public/images/screenshot.png)
 
 # Contact us
 - Website: [https://metal-rom.ro](https://metal-rom.ro)
