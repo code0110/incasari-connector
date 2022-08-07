@@ -1,0 +1,9 @@
+{
+    "name": "Incasari Connector",
+    "namespace": "Botble\\IncasariConnector\\",
+    "provider": "Botble\\IncasariConnector\\Providers\\IncasariConnectorServiceProvider",
+    "author": "Botezatu Catalin",
+    "url": "https://metal-rom.ro",
+    "version": "1.0",
+    "description": "Incasari Connector"
+}
